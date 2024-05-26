@@ -203,11 +203,3 @@ The following endpoints are available under the `/api/v1` prefix for managing us
   ```bash
   curl -X DELETE http://127.0.0.1:8000/api/v1/delete/user/1
   ```
-
-## Contribution
-
-Feel free to contribute by submitting pull requests.
-
-## License
-
-This project is licensed under the [Your License Name] License. See the LICENSE file for details.
